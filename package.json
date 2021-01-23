@@ -1,0 +1,27 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "My implementation of standard algorithms",
+  "main": "1_Linear_Search.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikolokoltsev/Algorithms.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "JavaScript",
+    "JS"
+  ],
+  "author": "Ivan <ikolokoltsev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikolokoltsev/Algorithms/issues"
+  },
+  "homepage": "https://github.com/ikolokoltsev/Algorithms#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
